@@ -1,0 +1,10 @@
+body {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1f1f1f;
+  background-image: url("https://images.unsplash.com/photo-1610505466122-b1d9482901ef?crop=entropy&cs=srgb&fm=jpg&ixid=MXwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHw&ixlib=rb-1.2.1&q=85");
+  background-size: contain;
+  overflow: hidden;
+}
